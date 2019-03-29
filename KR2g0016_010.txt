@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 朱子年譜
-#+DATE: 2019-03-29 20:50:50.845496
+#+DATE: 2019-03-29 20:50:50.996279
 #+PROPERTY: ID KR2g0016
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 10
 <pb:KR2g0016_WYG_010-1a>¶
 　　欽定四庫全書¶
@@ -133,7 +133,7 @@
 ¶
 　　答許中應云夫道之體用盈於天地之間古先聖人既¶
 深得之而慮後世之不能以逹此於是立言垂教自本¶
-至末所以提撕誨&KR0346;於後人者無所不備學者正當熟¶
+至末所以提撕誨飾於後人者無所不備學者正當熟¶
 讀其書精求其義考之吾心以求其實參之事物以騐¶
 <pb:KR2g0016_WYG_010-7a>¶
 其歸則日用之間諷誦思存應務接物無一事之不切¶
